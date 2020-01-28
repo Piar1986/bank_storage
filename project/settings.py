@@ -36,7 +36,6 @@ TEMPLATES = [
     },
 ]
 
-
 USE_L10N = True
 
 TIME_ZONE = 'Europe/Moscow'
